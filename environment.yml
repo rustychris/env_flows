@@ -1,0 +1,16 @@
+name: env_flows
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - matplotlib
+  - scipy
+  - numpy
+  - shapely
+  - gdal
+  - jupyter
+  - pandas
+  - xarray
+  - bokeh
+  - sympy
